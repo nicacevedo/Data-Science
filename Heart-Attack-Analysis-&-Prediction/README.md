@@ -1,5 +1,5 @@
 # Heart Attack Analysis & Prediction - Kaggle project
 
-Data source: https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+*Data source:* https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-By: Rashik Rahman
+*By:* Rashik Rahman
